@@ -10,8 +10,6 @@ My work extends to WordPress development, where I've created custom themes, and 
 
 I thrive in collaborative environments, continuously pushing boundaries with cloud administration, backend development, and cutting-edge technologies. Whether it's deploying to AWS, Heroku, or DigitalOcean, I am always looking for innovative ways to enhance application performance and deliver exceptional user experiences.
 
-Let’s connect if you’re looking for a dedicated developer with a passion for building secure, scalable, and efficient web solutions.
-
 Additionally, My two products are listed in ThemeForest Marketplace which is verified and approved by Envato Market. You can check it out here: https://themeforest.net/user/appclick/portfolio
 
 Do not forget to check some useful gists that I have created here: https://gist.github.com/dvsbharadva
